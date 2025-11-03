@@ -1,7 +1,7 @@
 # Hello, I'm Kufre
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have a sincere interest in Cybersecurity, the diligence to protect IT systems and assets, the dedication for resolving complicated issues and the drive to remain at the cutting edge of Cybersecurity Technology (Especially in the field of Artificial Intelligence).
+I have a sincere interest in Cybersecurity, the diligence to protect IT systems and assets, the dedication for resolving complicated issues and the drive to remain at the cutting edge of Cybersecurity Technology (especially in the field of Artificial Intelligence).
 
 ## Objective
 
