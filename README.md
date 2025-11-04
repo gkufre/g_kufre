@@ -9,7 +9,6 @@ My keen interest in Cybersecurity led to my decision to become a security operat
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
