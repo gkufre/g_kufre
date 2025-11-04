@@ -5,7 +5,7 @@ I have a sincere interest in Cybersecurity, the diligence to protect IT systems 
 
 ## Objective
 
-My keen interest in Cybersecurity led to my decision to become a security operations center (SOC) analyst - Tier I.
+My keen interest in Cybersecurity led to my decision to become a Security Operations Center (SOC) Analyst - Tier I.
 
 
 ## Skills
