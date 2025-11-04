@@ -5,7 +5,8 @@ I have a sincere interest in Cybersecurity, the diligence to protect IT systems 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My keen interest in Cybersecurity led to my decision to become a security operations center (SOC) analyst - Tier I.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
